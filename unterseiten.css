@@ -1,0 +1,47 @@
+nav {
+	width: 99.3%;
+	height: 8vh;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+flex-direction: row;
+padding-left: 1vw;
+padding-right: 1vw;
+background-color: rgb(20, 120, 120);
+box-shadow: 0 0 0 11px rgb(20, 120, 120);
+position: fixed;
+margin-top: -13vh;
+}
+
+h1 {
+front-family: "Century Gothic";
+}
+
+.navicon {
+	width: 6vh;
+	height: 6vh;
+}
+
+ul {
+	display: flex;
+	flex-direction: row;
+justify-content: space-evenly;
+	width: 60vw;
+	
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 1.7vw
+}
+
+div {
+	display: flex;
+	flex-direction: row;
+	margin-right: 1vw;
+}
